@@ -1,0 +1,10 @@
+{
+  "name": "demo",
+  "nx": {},
+  "scripts": {
+    "echo": "nx --output-style=stream exec -- echo $FOO $FOOBAR"
+  },
+  "dependencies": {
+    "nx": "19.2"
+  }
+}
